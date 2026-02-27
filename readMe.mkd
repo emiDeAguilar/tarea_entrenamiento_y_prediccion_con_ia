@@ -1,0 +1,14 @@
+# Clase de Algoritmos Avanzados
+
+## Tarea 1: Entrenamiento y Predicción con IA
+
+* `adv_algoritmos.py`
+
+## Tarea 2: Tensor flow Javascript
+
+**Revisar los siguientes archivos:**
+
+* `browser.js`
+* `machine_learning.html`
+* `scripts.js`
+* `tfjs.html`
