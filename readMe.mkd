@@ -12,3 +12,7 @@
 * `machine_learning.html`
 * `scripts.js`
 * `tfjs.html`
+
+## Tarea 3: Reconocimiento de imagenes.
+folder:
+* `prediccion-de-imagenes`
