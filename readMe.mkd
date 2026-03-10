@@ -16,3 +16,7 @@
 ## Tarea 3: Reconocimiento de imagenes.
 folder:
 * `prediccion-de-imagenes`
+
+## Tarea 4: Reconocimiento facial
+folder:
+* `reconocimiento-facial`
